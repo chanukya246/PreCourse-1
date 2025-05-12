@@ -1,5 +1,9 @@
 class StackAsLinkedList {
-  
+
+    // Time Complexity : O(1) for push, pop, and peek operations
+    // Space Complexity : O(n) for the stack linked list, where n is the number of elements in the stack
+    // Did this code successfully run on Leetcode : Didn't run on Leetcode
+
     StackNode root; 
   
     static class StackNode { 
